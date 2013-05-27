@@ -1,3 +1,5 @@
+2013-05-27: Fixed bad normal/specular maps on homedecor TV
+
 2013-05-26: Bumpmaps and specularmaps added everywhere they're needed.  Weeded 
 out images for the obsolete/dead server-side particles, irontrees, 
 growing_trees, and terraforming mods, and removed a few other obsolete images 
