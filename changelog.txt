@@ -1,5 +1,6 @@
 2013-05-27: Fixed bad normal/specular maps on homedecor TV. Better normalmap 
-for homedecor kitchen sink.
+for homedecor kitchen sink.  Delete extraneous homedecor projection screen 
+normalmap, add specular map for same.
 
 2013-05-26: Bumpmaps and specularmaps added everywhere they're needed.  Weeded 
 out images for the obsolete/dead server-side particles, irontrees, 
