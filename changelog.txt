@@ -1,6 +1,8 @@
-
 2013-05-30: Reduced size of most PNG files with pngcrush.  Ran all jpgs through 
-jpegoptim (strip all comment/exif data, lossless optimize).
+jpegoptim (strip all comment/exif data, lossless optimize).  Ran all texture 
+.png images through pngquant to convert to 256 colors. Effectively lossy 
+compression, which Makes them far smaller, but without any appreciable quality 
+loss. Does not affect normal/specular maps, which need to be lossless.
 
 2013-05-27: Fixed bad normal/specular maps on homedecor TV. Better normalmap 
 for homedecor kitchen sink.  Delete extraneous homedecor projection screen 
