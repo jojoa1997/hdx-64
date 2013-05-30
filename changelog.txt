@@ -1,3 +1,5 @@
+2013-05-30: Reduced size of most PNG files with pngcrush.
+
 2013-05-27: Fixed bad normal/specular maps on homedecor TV. Better normalmap 
 for homedecor kitchen sink.  Delete extraneous homedecor projection screen 
 normalmap, add specular map for same.  Fixed screwed up normalmaps for 
