@@ -1,3 +1,5 @@
+2013-06-02: add yellow lightstone for mesecons.
+
 2013-05-30: Reduced size of most PNG files with pngcrush.  Ran all jpgs through 
 jpegoptim (strip all comment/exif data, lossless optimize).  Ran all texture 
 .png images through pngquant to convert to 256 colors. Effectively lossy 
