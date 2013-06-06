@@ -1,6 +1,6 @@
 2013-06-05: New textures for mossy cobble and gloopblocks mossy stone brick. 
 Some jpeg files got named as .png accidentally. fixed.  Added support for steel 
-mod
+mod. Added moreblocks table/circular saw
 
 2013-06-04: Fixed unified dyes light grey, deleted a bunch of redundant unified 
 dyes images with bad filenames.
