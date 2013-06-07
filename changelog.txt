@@ -1,5 +1,6 @@
 2013-06-07: Made gloopblocks cement block darker. Deleted a few redundant 
-images, general cleanup.
+images, general cleanup. Screwed up alpha channels on 256px and lower stained 
+glass, homedecor door, smoke. Fixed.
 
 2013-06-06: Many black, white, or grey images in unified bricks, unified dyes, 
 and coloredwoods lost their alpha channel. Fixed.  Added support for carts mod. 
