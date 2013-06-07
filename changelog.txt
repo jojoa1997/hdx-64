@@ -1,6 +1,8 @@
 2013-06-06: Many black, white, or grey images in unified bricks, unified dyes, 
 and coloredwoods lost their alpha channel. Fixed.  Added support for carts mod. 
-Added support for Quartz mod. Added texture for default smoke puff.
+Added support for Quartz mod. Added texture for default smoke puff.  Update 
+gloopblocks support, fix missing textures for 'multi-color' grey unified brick 
+blocks
 
 2013-06-05: New textures for mossy cobble and gloopblocks mossy stone brick. 
 Some jpeg files got named as .png accidentally. fixed.  Added support for steel 
