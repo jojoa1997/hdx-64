@@ -1,3 +1,6 @@
+2013-06-08: New mossy cobble, stone brick, alternate cobble (the other ones 
+weren't quite right). Added gloopblocks mossy stone.
+
 2013-06-07: Made gloopblocks cement block darker. Deleted a few redundant 
 images, general cleanup. Screwed up alpha channels on 256px and lower stained 
 glass, homedecor door, smoke. Fixed.
