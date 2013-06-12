@@ -1,3 +1,6 @@
+2013-06-12: Resolution idenfiers got screwed up in menu overlays. Also, 
+this corrects the overall-wrong minetest_game overlay.
+
 2013-06-09: fixed broken pipeworks spigot textures (after three tries)
 
 2013-06-08: New mossy cobble, stone brick, alternate cobble (the other ones 
