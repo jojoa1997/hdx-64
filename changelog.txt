@@ -1,3 +1,6 @@
+2013-06-13: another one of the menu overlays got screwed up on lower 
+resolutions.
+
 2013-06-12: Some jpg images got saved as png with the wrong file 
 extension. fixed. Also, "unknown block" -> "unknown node"
 
