@@ -1,3 +1,5 @@
+2013-06-20: Added inventory image for regular mesecons wires
+
 2013-06-13: another one of the menu overlays got screwed up on lower 
 resolutions.   moretrees fir trunk top was ot jpeg. fixed.
 
