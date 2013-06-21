@@ -1,5 +1,5 @@
 2013-06-20: Added support for Digilines, and added inventory image for 
-regular mesecons wires, and textures for luacontroller.
+regular mesecons wires, textures for luacontroller, homedecor microwave.
 
 2013-06-13: another one of the menu overlays got screwed up on lower 
 resolutions.   moretrees fir trunk top was ot jpeg. fixed.
