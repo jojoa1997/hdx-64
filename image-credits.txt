@@ -841,3 +841,6 @@ http://commons.wikimedia.org/wiki/File:Quartz_Br%C3%A9sil.jpg
 http://commons.wikimedia.org/wiki/File:Amethist_quartz.jpeg
 http://commons.wikimedia.org/wiki/File:Lapidated_quartz_%28rock_crystal%29_obelisk.jpg
 
+Digilines
+---------
+RTC chip: http://upload.wikimedia.org/wikipedia/commons/e/ef/Station_Clock.svg
