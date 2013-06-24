@@ -1,4 +1,6 @@
-2013-06-23: Added pipeworks filters and mese filters
+2013-06-24: Added pipeworks filters, mese filters, and all of the 
+various pipeworks tube types, plus added missing inventory image for the 
+plain one.
 
 2013-06-20: Added support for Digilines, and added inventory image for 
 regular mesecons wires, textures for luacontroller, homedecor microwave.
