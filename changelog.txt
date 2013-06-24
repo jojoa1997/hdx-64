@@ -3,7 +3,10 @@ various tube types, plus added missing inventory image for the plain
 tube, and better textures for water pump. Re-cut all of the large 
 stone/sandstone/etc bricks to make their patterns the same as the 
 default textures. Got rid of all the specular maps since they're not 
-being used.
+being used. Re-generated ALL of the normalmaps that hadn't already been 
+customized, replaced a few customized ones with generated ones here and 
+there where the result looked better. Also, deleted redundant 16px 
+homedecor and mesecons images, and 32px homedecor door images.
 
 2013-06-20: Added support for Digilines, and added inventory image for 
 regular mesecons wires, textures for luacontroller, homedecor microwave.
