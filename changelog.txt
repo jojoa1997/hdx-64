@@ -1,6 +1,6 @@
 2013-06-24: Added pipeworks filters, mese filters, and all of the 
-various pipeworks tube types, plus added missing inventory image for the 
-plain one.
+various tube types, plus added missing inventory image for the plain 
+tube, and better textures for water pump.
 
 2013-06-20: Added support for Digilines, and added inventory image for 
 regular mesecons wires, textures for luacontroller, homedecor microwave.
