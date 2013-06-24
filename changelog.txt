@@ -1,6 +1,9 @@
 2013-06-24: Added pipeworks filters, mese filters, and all of the 
 various tube types, plus added missing inventory image for the plain 
-tube, and better textures for water pump.
+tube, and better textures for water pump. Re-cut all of the large 
+stone/sandstone/etc bricks to make their patterns the same as the 
+default textures. Got rid of all the specular maps since they're not 
+being used.
 
 2013-06-20: Added support for Digilines, and added inventory image for 
 regular mesecons wires, textures for luacontroller, homedecor microwave.
