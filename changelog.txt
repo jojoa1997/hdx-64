@@ -1,3 +1,5 @@
+2013-06-25: Added all variants of technic framed glass.
+
 2013-06-24: Added pipeworks filters, mese filters, and all of the 
 various tube types, plus added missing inventory image for the plain 
 tube, and better textures for water pump. Re-cut all of the large 
