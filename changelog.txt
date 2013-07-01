@@ -1,3 +1,5 @@
+2013-07-01: Minor tweak for homedecor slab/half-slab glow lights
+
 2013-06-29: Added support for travelnet mod w/elevators
 
 2013-06-25: Added all variants of technic framed glass.
