@@ -1,3 +1,7 @@
+2013-07-03: Reworked default bricks just a bit to improve quality and 
+realism, better normalmaps. Reworked all plain unifiedbricks colors in 
+the same manner.
+
 2013-07-01: Minor tweak for homedecor slab/half-slab glow lights
 
 2013-06-29: Added support for travelnet mod w/elevators
