@@ -1,6 +1,7 @@
 2013-07-03: Reworked default bricks just a bit to improve quality and 
 realism, better normalmaps. Reworked moreblocks cactus brick and all 
-unifiedbricks plain colors in the same manner.
+unifiedbricks plain colors in the same manner.  Better normalmaps for 
+multicolor unified bricks
 
 2013-07-01: Minor tweak for homedecor slab/half-slab glow lights
 
