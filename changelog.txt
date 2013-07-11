@@ -1,3 +1,5 @@
+2013-07-11: Brought streets mod support up to date.
+
 2013-07-03: Reworked default bricks just a bit to improve quality and 
 realism, better normalmaps. Reworked moreblocks cactus brick and all 
 unifiedbricks plain colors in the same manner.  Better normalmaps for 
