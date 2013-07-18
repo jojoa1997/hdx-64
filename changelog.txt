@@ -1,3 +1,5 @@
+2013-07-18: Add license file
+
 2013-07-12: unknown node normal should be mostly flat, no wording
 
 2013-07-11: Brought streets mod support up to date.
