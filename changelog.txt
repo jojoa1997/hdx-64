@@ -1,4 +1,6 @@
-2013-07-18: Add license file
+2013-07-20: Added support for DanDucombe's camo mod.
+
+2013-07-18: Add license file.
 
 2013-07-12: unknown node normal should be mostly flat, no wording
 
