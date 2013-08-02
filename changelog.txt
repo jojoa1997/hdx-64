@@ -1,3 +1,5 @@
+2013-08-02: Added screenshot and info.txt files for upcoming texture pack selector.
+
 2013-07-20: Added support for DanDucombe's camo mod.
 
 2013-07-18: Add license file.
