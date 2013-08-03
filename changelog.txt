@@ -1,4 +1,17 @@
-2013-08-02: Fixed bad NC rainbow normalmap, better tiling on default leaves.
+2013-08-03: Multiple changes:
+
+* Fixed accidental inversion of Y direction on normalmaps for most 
+  glass-block-based objects, default ladder, windowed pipes, poisonivy.
+* Better normalmaps for bobblocks blocks.
+* Fixed incorrect visual division between tiles in default steel door, 
+  default wood door, and homedecor closet and glass/wood door normalmaps 
+  (all colors), and generally improved their quality.
+* Better quality for mesecons 'on' lightstones and their normalmaps.
+* Fixed incorrect offsets on NC normalmaps and improved overall quality 
+  of textures.
+* Fixed inverted Y in grass, grass-side and dirt normalmaps and slightly 
+  improved their quality.
+* Better tiling on default leaves.
 
 2013-08-02: Added screenshot and info.txt files for upcoming texture 
 pack selector.
