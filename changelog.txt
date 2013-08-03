@@ -12,6 +12,8 @@
 * Fixed inverted Y in grass, grass-side and dirt normalmaps and slightly 
   improved their quality.
 * Better tiling on default leaves.
+* Fix bad normalmap for streets steel support, copy over to steel mod 
+  'strut' also
 
 2013-08-02: Added screenshot and info.txt files for upcoming texture 
 pack selector.
