@@ -1,4 +1,7 @@
-2013-08-02: Added screenshot and info.txt files for upcoming texture pack selector.
+2013-08-02: Fixed bad NC rainbow normalmap, better tiling on default leaves.
+
+2013-08-02: Added screenshot and info.txt files for upcoming texture 
+pack selector.
 
 2013-07-20: Added support for DanDucombe's camo mod.
 
