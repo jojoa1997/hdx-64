@@ -1,3 +1,5 @@
+2013-08-05: Added support for bas080's Tiny Trees mod
+
 2013-08-03: Multiple changes:
 
 * Fixed accidental inversion of Y direction on normalmaps for most 
