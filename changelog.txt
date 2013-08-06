@@ -1,4 +1,5 @@
-2013-08-05: Added support for bas080's Tiny Trees mod
+2013-08-05: Added support for bas080's Tiny Trees mod (mostly, some 
+saplings are missing because moretrees doesn't have them either, yet)
 
 2013-08-03: Multiple changes:
 
