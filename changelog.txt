@@ -1,6 +1,6 @@
-2013-08-05: Added support for bas080's Tiny Trees mod (mostly, some 
-saplings are missing because moretrees doesn't have them either, yet). 
-Added palm saplings for moretrees and tiny trees.
+2013-08-05: Added support for bas080's Tiny Trees mod (mostly, some
+saplings are missing because moretrees doesn't have them either, yet).
+Added saplings for most other trees, some derived from default sapling.
 
 2013-08-03: Multiple changes:
 
