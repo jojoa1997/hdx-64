@@ -1,3 +1,5 @@
+2013-08-06: Added support for building_blocks mod.
+
 2013-08-05: Added support for bas080's Tiny Trees mod.  Added all saplings for
 moretrees trees, some derived from default sapling.
 

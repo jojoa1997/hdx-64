@@ -140,7 +140,7 @@ http://commons.wikimedia.org/wiki/File:Brushed_metal.jpg
 http://commons.wikimedia.org/wiki/File:Screw_metal.jpg
 
 default_stick
-(Photo by Abraham Ezekowitz, 2007-08-12)
+http://commons.wikimedia.org/wiki/File:Merops_pusillus_-Little_Bee-eater_-two_on_branch.jpg
 
 default_sign_*
 http://commons.wikimedia.org/wiki/File:Swietenia_macrophylla_wood.jpg
@@ -864,4 +864,16 @@ Camo
 
 all the camo colors:
 http://commons.wikimedia.org/wiki/File:Duckhunter.JPG
+
+Building blocks
+---------------
+http://upload.wikimedia.org/wikipedia/commons/3/33/Pared_de_Adobe_-_Tapial_-_San_Vicente.JPG
+https://en.wikipedia.org/wiki/File:Pellet_stove.jpg
+http://upload.wikimedia.org/wikipedia/commons/1/14/Cast-Iron-Pan.jpg
+http://commons.wikimedia.org/wiki/File:King_Long_XMQ6129Y_10_-_view_inlet_grating.jpg
+http://commons.wikimedia.org/wiki/File:Maria_Hilf_Kirche_in_Seis_window.JPG
+http://commons.wikimedia.org/wiki/File:Fatwood_firestarters.jpg
+http://commons.wikimedia.org/wiki/File:Merops_pusillus_-Little_Bee-eater_-two_on_branch.jpg
+http://en.wikipedia.org/wiki/File:Geschliffener_blauer_Saphir.jpg
+http://commons.wikimedia.org/wiki/File:Old_Swiss_table_knives.JPG
 
