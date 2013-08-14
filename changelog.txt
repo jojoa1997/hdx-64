@@ -1,3 +1,5 @@
+2013-08-14: brought prefab support up to date.
+
 2013-08-12: Added support for prefab concrete mod.
 
 2013-08-06: Added support for building_blocks mod.  New stick image for 
