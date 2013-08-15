@@ -1,4 +1,5 @@
-2013-08-14: brought prefab support up to date.
+2013-08-14: Brought vines mod support up to date, thined out and made 
+willow leaves properly tileable.  Brought prefab support up to date.
 
 2013-08-12: Added support for prefab concrete mod.
 
