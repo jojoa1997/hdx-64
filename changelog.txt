@@ -1,3 +1,5 @@
+2013-08-23: add gloopblocks evil stick
+
 2013-08-14: Brought vines mod support up to date, thined out and made 
 willow leaves properly tileable.  Brought prefab support up to date.
 
