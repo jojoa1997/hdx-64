@@ -1,4 +1,6 @@
-2013-08-24: Brought blox mod support up-to-date, gave all blocks in this mod except glow stone and teleport pad a fresh, new, clean set of textures.
+2013-08-24: Brought blox mod support up-to-date, gave all blocks in this 
+mod except glow stone and teleport pad a fresh, new, clean set of 
+textures. Copy vessels files to _inv.pnf variants.
 
 2013-08-23: Add gloopblocks evil stick.
 
