@@ -1,6 +1,7 @@
 2013-08-31: Reworked all of the Prefab textures to use a better, 
 smoother-grained concrete texture (same source image, but processed 
-better). Also differentiates Prefab from Technic concrete.
+better). Also differentiates Prefab from Technic concrete. Add textures 
+for prefab concrete door.
 
 2013-08-31: Added support for lrfurn mod.
 
