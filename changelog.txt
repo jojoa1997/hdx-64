@@ -1,3 +1,5 @@
+2013-08-31: accidentally had invert-Y on furnace normalmaps. fixed.
+
 2013-08-31: Reworked all of the Prefab textures to use a better, 
 smoother-grained concrete texture (same source image, but processed 
 better). Also differentiates Prefab from Technic concrete. Add textures 
