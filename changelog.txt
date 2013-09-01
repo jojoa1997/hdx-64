@@ -1,3 +1,13 @@
+2013-09-01: Multiple updates:
+
+technic enriched uranium, stainless/chromium/uranium/zinc blocks, 
+silicon wafers, control logic unit, copper/composite/carbon plates, 
+chainsaw, flashlight, sonic screwdriver, copper wire, graphite
+
+glooptest table, kalite torch inv image, all crystal glasses, all gem 
+ores/stones/blocks (but not the encrusting stuff), all saws and hammers, 
+arol/akalin/alatro/talinite dusts
+
 2013-08-31: accidentally had invert-Y on furnace normalmaps. fixed.
 
 2013-08-31: Reworked all of the Prefab textures to use a better, 
