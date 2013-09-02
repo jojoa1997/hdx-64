@@ -81,12 +81,15 @@ http://commons.wikimedia.org/wiki/File:Wooden_fence_closeup.jpg
 default_furnace_front, default_furnace_side
 http://commons.wikimedia.org/wiki/File:David_Crabill_House,_oven.jpg
 
-default_grass
+default_grass (the blocks)
 http://commons.wikimedia.org/wiki/File:Grass_01.jpg
 
 default_grass_footsteps, default_grass_side.png
 http://commons.wikimedia.org/wiki/File:Grass_01.jpg
 http://commons.wikimedia.org/wiki/File:Soil.jpg
+ 
+default wild grass
+http://commons.wikimedia.org/wiki/File:Agropyron_cristatum_%283822209534%29.jpg
 
 default_gravel
 http://commons.wikimedia.org/wiki/File:Gravel_small_stones.jpg
