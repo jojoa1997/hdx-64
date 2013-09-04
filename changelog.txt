@@ -1,5 +1,5 @@
 2013-09-04: Added wheat and cotton for default farming mod. This should 
-make support for that mod complete.
+make support for that mod complete.  Also added farming_plus weeds.
 
 2013-09-03: Add technic blast-resistant concrete and compressed uranium 
 fuel rod.
