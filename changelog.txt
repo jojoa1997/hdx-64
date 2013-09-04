@@ -1,4 +1,5 @@
-2013-09-03: Add technic blast-resistant concrete
+2013-09-03: Add technic blast-resistant concrete and compressed uranium 
+fuel rod.
 
 2013-09-02: Added various faming images (dirt, hoes, inventory stuff, 
 seeds, a few craft items). Reworked default grass and default dirt 
