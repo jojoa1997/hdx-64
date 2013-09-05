@@ -1,5 +1,7 @@
-2013-09-04: Added wheat and cotton for default farming mod. This should 
-make support for that mod complete.  Also added farming_plus weeds.
+2013-09-04: Add all farming_plus seeds, all variants of pumpkins, both 
+scarecrows, and all inventory images.  Added wheat and cotton for 
+default farming mod. This should make support for that mod complete.  
+Also added farming_plus weeds.
 
 2013-09-03: Add technic blast-resistant concrete and compressed uranium 
 fuel rod.
